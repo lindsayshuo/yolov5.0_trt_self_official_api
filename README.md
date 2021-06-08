@@ -254,4 +254,5 @@ yolov5-5.0+TensorRT-7.2.2.3+python+C++
     else:
         print('loading Videos ...')
         dataset = LoadImages(source, img_size=640)
- 
+ 项目QQ群：561945362
+ 微信群：加微信LS932695342，直接拉进群
