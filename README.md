@@ -1,6 +1,13 @@
 # yolov5.0_trt_self_official_api
 yolov5-5.0+TensorRT-7.2.2.3+python+C++
 
+
+v1.1 code:
+
+          https://github.com/lindsayshuo/yolov5.0_trt_self_official_api/archive/refs/tags/v1.1.zip
+
+          https://github.com/lindsayshuo/yolov5.0_trt_self_official_api/archive/refs/tags/v1.1.tar.gz
+
 环境配置：
 	
 	所有的安装包在百度盘，大家自取：
